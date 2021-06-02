@@ -1,6 +1,6 @@
 ### Hi there, I'm ZEE-AL-EID AHMED 👋
 
-[![Website](https://img.shields.io/website?label=Zee-al-eid.github.io&style=for-the-badge&url=https%3A%2F%2FZee-al-eid.github.io)](https://zee-al-eid.github.io)
+[![Website](https://img.shields.io/website?label=Zee-al-eid.github.io&style=for-the-badge&url=https%3A%2F%2FZee-al-eid.github.io)](https://zeealeid.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zeealeid_ahmed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zeealeid_ahmed)
 
 ## I'm a Full-Stack Web Developer!!
