@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Development related stuff
 - 😄 Pronouns: He / His / Him
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love animations
 
 ### Connect with me:
