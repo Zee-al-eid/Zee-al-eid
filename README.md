@@ -4,12 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zeealeid_ahmed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zeealeid_ahmed)
 
 ## I'm a Full-Stack Web Developer!!
-- 🔭 I’m currently looking for a good job
-- 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Web Development related stuff
 - 😄 Pronouns: He / His / Him
-- 🥅 2025 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love animations
+- 🥅 2026 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
