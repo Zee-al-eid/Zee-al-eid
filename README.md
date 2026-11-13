@@ -1,39 +1,18 @@
-### Hi there, I'm ZEE-AL-EID AHMED 👋
+# Zee Al Eid Ahmad
 
-[![Website](https://img.shields.io/website?label=Zeealeid.com&style=for-the-badge&url=https%3A%2F%2FZee-al-eid.github.io)](https://zeealeid.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/zeealeid_ahmed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zeealeid_ahmed)
+I build websites and automate workflows. My work spans custom WordPress development, API integrations and document-to-database pipelines. Based in Subang Jaya, Malaysia.
 
-## I'm a Full-Stack Web Developer!!
-- 💬 Ask me about Web Development related stuff
-- 😄 Pronouns: He / His / Him
-- 🥅 2026 Goals: Contribute more to Open Source projects
+[LinkedIn](https://www.linkedin.com/in/zeealeid)
 
-### Connect with me:
+## Featured project · Mr Mind
 
-[<img align="left" alt="zeealeid.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://zee-al-eid.github.io)
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/zeealeid.ahmed.9)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeealeid_ahmed)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zee-al-eid-ahmed-7544621ba)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zeealeid_ahmed/)
-<br />
+I designed, built and deployed a digital storefront with a custom WordPress theme. The founder can update pages, products and bundles from WordPress. I integrated Paddle payments, server-side purchase verification and a customer portal for protected downloads.
 
-### Languages and Tools:
+[Read the case study and explore the theme code](https://github.com/Zee-al-eid/mrmind-portfolio) · [Visit the live site](https://mrmind.co/)
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Node.js" width="30px" src="https://i.ibb.co/FgHxtTj/node.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## Other work
 
-<br />
+- **Tardeo Studio** — Built a custom WordPress theme from Adobe XD designs, with editable project pages, responsive layouts and animations. I launched the site and maintain its hosting. [Visit Tardeo Studio](https://tardeostudio.com/)
+- **AUC timetable automation** — Built a pipeline that turns PDF and Excel timetables into searchable database records. I designed the relational data model and built the schedule search interface for the university portal.
 
-___
-
-<img align="center" alt="Zee-al-eid GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zee-al-eid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+**Tools I work with** · JavaScript, PHP, React, WordPress, n8n, Docker and Git
